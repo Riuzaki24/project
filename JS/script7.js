@@ -1,0 +1,24 @@
+"use strict";
+
+
+console.log('arr' + '-object');
+console.log(4 + '-object');
+
+let incr = 10,
+    decr = 10;
+
+incr++;
+decr--;    
+
+console.log(incr);
+console.log(decr);
+
+
+console.log(11%3); 
+
+console.log('8' === '8'); 
+
+const isChecked = true,
+      isClosed = false;
+
+      console.log(isChecked || isClosed);
